@@ -22,6 +22,8 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+/* \summary: Constrained Application Protocol printer */
+
 #ifdef HAVE_CONFIG_H
 #include "config.h"
 #endif
